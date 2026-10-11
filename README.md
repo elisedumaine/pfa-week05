@@ -1,5 +1,5 @@
 # which app, and which way (command, port, or MCP).
 
-#How to run it. 
+# How to run it. 
 
-#What you asked for.
+# What you asked for.
