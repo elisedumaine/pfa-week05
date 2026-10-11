@@ -1,4 +1,4 @@
-#Which app, and which way (command, port, or MCP).
+# which app, and which way (command, port, or MCP).
 
 #How to run it. 
 
