@@ -13,7 +13,7 @@ The project includes Unreal's standard **Third Person** template. After the brid
 ## How to run it
 
 1. On Windows, install Unreal Engine 5.8.
-2. Download `UnrealAgentBridge.zip` from this repository and unzip it. No separate Python or Codex CLI installation is needed.
+2. Download [`UnrealAgentBridge.zip`](https://github.com/elisedumaine/pfa-week05/releases/download/a5-final/UnrealAgentBridge.zip) from the **A5 final release** and unzip it. No separate Python or Codex CLI installation is needed.
 3. Open `UnrealAgentBridge\\UnrealAgentBridge.uproject` from the unzipped folder. The project enables Unreal's built-in **Python Editor Script Plugin** and opens the forest map.
 4. Wait until the Output Log says: `[AgentBridge] Listening on tcp://127.0.0.1:8765`.
 5. Open PowerShell in the project folder and verify the bridge:
