@@ -1,4 +1,4 @@
-# Unreal Agent Bridge — Random Stylized Forest
+# Unreal Agent Bridge — Random Stylized Forest with parcour
 
 ## Assignment choice
 
@@ -69,9 +69,5 @@ Agent / PowerShell --> run_bridge_client.ps1 --> TCP 127.0.0.1:8765
                                    Unreal editor tick + Unreal Python API
 ```
 
-## Recording plan (under one minute)
+## The recording : https://vimeo.com/1234905319
 
-1. Put Unreal and a terminal side by side; show the editor and the `[AgentBridge]` listener line.
-2. Ask the agent the quoted request above.
-3. Show `build_forest` returning its seed while the coloured trees, sunlight, instruction sign, and childlike course appear in Unreal.
-4. Show `inspect_forest` passing, press **Play**, then walk briefly through the forest and climb the course with the Third Person character.
