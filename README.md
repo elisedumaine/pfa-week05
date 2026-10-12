@@ -52,3 +52,5 @@ py "exec(open(r'Content/Python/init_unreal.py', encoding='utf-8').read())"
 
 The agent sent `build_forest` to the local TCP port. Unreal created a clean forest map with 30 randomly placed low-poly trees, each using a black, brown, or white trunk and red, orange, or green foliage. It also created 80 animated grass blades, a warm directional sun, skylight, sky atmosphere, light fog, a PlayerStart, the `FORET ALEATOIRE` 3D text, and a low childlike obstacle course: five gentle steps, a log bridge, a tower and slide, a seesaw, a swing frame, and a finish block. The response includes the random seed; `inspect_forest` checks the forest and course pieces before I press Play to explore it.
 
+RECORDING : 
+
